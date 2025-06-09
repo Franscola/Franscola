@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋! My name is Franco ... and I'm a Full Stack Dev, from ARG-</h2>
+<h2 align="center">Hi 👋! Soy desarrollador Full Stack, apasionado por construir soluciones funcionales y de alta calidad. Me motiva mejorar continuamente, tanto en lo técnico como en lo profesional, y siempre busco aprender algo nuevo.
+
+Tengo experiencia trabajando en tecnologías tanto de frontend como de backend, y disfruto involucrarme en proyectos desafiantes donde pueda aportar valor real, resolver problemas concretos y seguir creciendo en el camino.
+
+Mi enfoque está puesto en el aprendizaje constante, el trabajo en equipo y el compromiso con cada proyecto. Si estás buscando a alguien proactivo, con curiosidad y muchas ganas de seguir desarrollándose en el mundo tech-</h2>
 
 ###
 
