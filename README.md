@@ -2,7 +2,6 @@
 
 Tengo experiencia trabajando en tecnologías tanto de frontend como de backend, y disfruto involucrarme en proyectos desafiantes donde pueda aportar valor real, resolver problemas concretos y seguir creciendo en el camino.
 
-Mi enfoque está puesto en el aprendizaje constante, el trabajo en equipo y el compromiso con cada proyecto. Si estás buscando a alguien proactivo, con curiosidad y muchas ganas de seguir desarrollándose en el mundo tech-</h2>
 
 ###
 
