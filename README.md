@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋! Soy desarrollador Full Stack, apasionado por construir soluciones funcionales y de alta calidad. Me motiva mejorar continuamente, tanto en lo técnico como en lo profesional, y siempre busco aprender algo nuevo.
+<h2 align="center">Hi 👋! I'm a full-stack developer passionate about building high-quality, functional solutions. I'm driven by continuous improvement, both technically and professionally, and I'm always looking to learn something new.
 
-Tengo experiencia trabajando en tecnologías tanto de frontend como de backend, y disfruto involucrarme en proyectos desafiantes donde pueda aportar valor real, resolver problemas concretos y seguir creciendo en el camino.
+I have experience working with both front-end and back-end technologies, and I enjoy getting involved in challenging projects where I can add real value, solve specific problems, and continue to grow along the way.
 
 
 ###
